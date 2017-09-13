@@ -1,5 +1,6 @@
 # Snoverchill
 ![image](readmeimg/lead.gif)
+
 Snowman's Land: Snoverchill is a multiplayer battle game written in Javascript. The goal is to perform as many flips as possible, while shooting other players with snowballs to stop them from landing theirs. The score you get from each trick scales exponentially with the number of full revolutions you can get in before landing the trick. 
 
 The game is programmed in Javascript with few libraries, just glMatrix for math, 2D Canvas and Web Audio for game output. The collision system is entirely custom - collidable geometry is stored as lines, and continuous collision detection is supported for both rays and swept spheres - both of which check for collision against these lines.
