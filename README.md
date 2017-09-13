@@ -1,5 +1,5 @@
 # Snoverchill
-![image](http://giant.gfycat.com/DecentEminentEarwig.gif)
+![image](readmeimg/lead.gif)
 Snowman's Land: Snoverchill is a multiplayer battle game written in Javascript. The goal is to perform as many flips as possible, while shooting other players with snowballs to stop them from landing theirs. The score you get from each trick scales exponentially with the number of full revolutions you can get in before landing the trick. 
 
 The game is programmed in Javascript with few libraries, just glMatrix for math, 2D Canvas and Web Audio for game output. The collision system is entirely custom - collidable geometry is stored as lines, and continuous collision detection is supported for both rays and swept spheres - both of which check for collision against these lines.
@@ -16,7 +16,7 @@ http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=7339
 Playable version (most of the time, when server is up):
 http://freeso.org/ld31/
 
-![image](http://giant.gfycat.com/ExaltedIdealisticAlaskankleekai.gif)
+![image](readmeimg/liptrick.gif)
 
 ## License
 Snoverchill is currently unlicensed. While the source is available for those interested, this is the only LD project I'm reserving all rights to. If you're interested in the svg collision system, another version is licensed under MPL 2.0 in my LD32 game, Ani-melee, which should contain some additional optimisations & functionality as well (quadTree.js for faster collision checking).
