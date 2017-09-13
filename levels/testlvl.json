@@ -1,0 +1,45 @@
+{
+	"name": "Sick Slopes",
+	"respawns": [
+		{
+			"pos": [121, 147], /* top left respwan */
+			"vel": [0.5, 0], /* top speed vel multiplier */
+			"angle": 0
+		},
+		{
+			"pos": [481, 179], /* middle top right respwan */
+			"vel": [0.5, 0], /* top speed vel multiplier */
+			"angle": 0
+		},
+		{
+			"pos": [301, 332], /* middle top left respwan */
+			"vel": [0.5, 0], /* top speed vel multiplier */
+			"angle": 0
+		},
+		{
+			"pos": [481, 417], /* middle left respwan */
+			"vel": [-0.5, 0], /* top speed vel multiplier */
+			"angle": 0
+		},
+		{
+			"pos": [106, 667], /* bottom left respwan */
+			"vel": [0.5, 0], /* top speed vel multiplier */
+			"angle": 0
+		},
+		{
+			"pos": [903, 147], /* top left respwan */
+			"vel": [-0.5, 0], /* top speed vel multiplier */
+			"angle": 0
+		},
+		{
+			"pos": [543, 417], /* middle right respwan */
+			"vel": [0.5, 0], /* top speed vel multiplier */
+			"angle": 0
+		},
+		{
+			"pos": [918, 667], /* bottom right respwan */
+			"vel": [-0.5, 0], /* top speed vel multiplier */
+			"angle": 0
+		}
+	]
+}
